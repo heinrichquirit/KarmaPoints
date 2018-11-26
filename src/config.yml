@@ -1,0 +1,4 @@
+display-under-name: false
+cooldown-minutes:
+  add: 5
+  remove: 5

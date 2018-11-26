@@ -1,0 +1,7 @@
+name: KarmaPoints
+main: io.github.heinrichquirit.karmapoints.KarmaPoints
+version: 1.0
+author: BigBadHenz
+commands:
+  karma:
+    description: A command to use the karma system
